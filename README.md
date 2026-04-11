@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:roqaiasoliman9@gmail.com">roqaiasoliman9@gmail.com</a> ·
-  <a href="https://x.com/YOUR_X_HANDLE">X / Twitter</a>
+  <a href="https://x.com/ruqaya_suleyman">X / Twitter</a>
 </p>
 
 ---
