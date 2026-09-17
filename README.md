@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:roqaiasoliman9@gmail.com">roqaiasoliman9@gmail.com</a> ·
+  <a href="mailto:ruqayasuleyman9@gmail.com">ruqayasuleyman9@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/ruqaya-suleyman">LinkedIn</a> ·
+  <a href="https://linktr.ee/ruqayasuleyman9">Portfolio</a> ·
   <a href="https://x.com/ruqaya_suleyman">X / Twitter</a>
 </p>
 
@@ -13,7 +15,8 @@
 
 ## About me
 
-I'm an aspiring AI Engineer focused on building practical, end-to-end AI applications — not just prototypes, but systems designed with real-world deployment in mind.
+I'm an AI engineer building practical, end-to-end AI applications — not
+prototypes, but systems designed with real-world deployment in mind.
 
 My background in graphic design (8+ years) gives me an eye for usability and structured thinking that most engineers don't have. I use it to build AI products that are functional *and* presentable.
 
